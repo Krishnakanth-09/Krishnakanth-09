@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi 👋 I’m Krishna Kanth
 
-<!--
-**Krishnakanth-09/Krishnakanth-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a MBA graduate with a strong foundation in Data Analytics, Machine Learning and Data Science. With a passion for solving complex problems using data, I am continuously learning and improving my skills. Throughout my academic journey, I have worked on several data-driven projects, including predictive modeling, data visualization, and statistical analysis. I am eager to apply my theoretical knowledge to real-world problems and am excited about contributing to impactful data-driven decisions. I am now actively looking for opportunities to work with a dynamic team where I can grow and further hone my skills in Analytics.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Skills:
+Programming : Python (Pandas, NumPy, Matplotlib, EDA) 
+Databases & Cloud DW : SQL(DDL/DML, Time Series, SQL Queries, Aggregate Functions), Snowflake 
+BI & Reporting Tools : Advanced Excel, Power BI (Power Query, DAX, Relationships, Dashboards), Tableau 
+Machine Learning : Linear & Logistic Regression, KNN, Decision Trees, Clustering, Model Evaluation 
+Data Skills : Data Cleaning, Data Validation, ETL, Reporting, Dashboard Development 
+Process & Quality : SOPs, SLA Compliance, Documentation, Quality Assurance 
+Soft Skills : Problem Solving, Communication, Time Management, Adaptability 
